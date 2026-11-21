@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs";
 const poem = `Two hands, one wheel.
 I loosen my left,
 you loosen your right —
-the wheel turns further
-than either hand alone could reach.
+the wheel turns farther
+than either hand alone could steer.
 
 We did not give our choosing away.
 We lent it, and it came back
